@@ -1,0 +1,10 @@
+{
+  "ClassName": "Book",
+  "Title": "And Then There Were None",
+  "Author": "Agatha Christie",
+  "Genre": "crime",
+  "Methods": {
+    "read_the_book": "The book \"And Then There Were None\" has been read",
+    "rename_the_book": "The book is not renamed"
+  }
+}
