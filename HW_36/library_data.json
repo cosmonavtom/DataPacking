@@ -1,0 +1,34 @@
+{
+    "books": [
+        {
+            "title": "Land of Oz",
+            "author": "L. Frank Baum"
+        },
+        {
+            "title": "War and Peace",
+            "author": "Leo Tolstoy"
+        },
+        {
+            "title": "Bible",
+            "author": "Unknown"
+        },
+        {
+            "title": "Kolobok",
+            "author": "Slavic Folk"
+        }
+    ],
+    "readers": [
+        {
+            "name": "Max",
+            "book_rental": []
+        },
+        {
+            "name": "Alex",
+            "book_rental": []
+        },
+        {
+            "name": "Serg",
+            "book_rental": []
+        }
+    ]
+}
